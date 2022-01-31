@@ -1,0 +1,19 @@
+{
+  "name": "Zach The Surprised",
+  "symbol": "",
+  "image": "0.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HqePgTUosXMmY8AYDmx6Y3zL1CCgSzhsbAQtLjJe1aih",
+        "share": 100
+      }
+    ]
+  }
+}

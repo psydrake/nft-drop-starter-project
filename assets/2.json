@@ -1,0 +1,19 @@
+{
+  "name": "Toby Tabster",
+  "symbol": "",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HqePgTUosXMmY8AYDmx6Y3zL1CCgSzhsbAQtLjJe1aih",
+        "share": 100
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Wendy Blue Eyes",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HqePgTUosXMmY8AYDmx6Y3zL1CCgSzhsbAQtLjJe1aih",
+        "share": 100
+      }
+    ]
+  }
+}
